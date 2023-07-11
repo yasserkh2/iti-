@@ -1,0 +1,4 @@
+gradio==3.35.2
+langchain==0.0.221
+google.auth
+google-cloud-aiplatform
